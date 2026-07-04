@@ -1,0 +1,9 @@
+Strategy,Mean rank,Rank std,Top-1 frequency,Mean aggregate score
+Prioritize high-value landing-page optimization,1.0,0.0,1.0,1.0
+Schedule seasonal merchandising and promotion windows,2.0,0.0,0.0,0.6879026519937791
+Reduce exit friction in product and checkout journeys,3.185,0.3886215526515594,0.0,0.22741638488082808
+Personalize journeys by visitor recency type,3.815,0.3886215526515594,0.0,0.20299041597168896
+Improve first-screen relevance and loading quality,5.1466666666666665,0.3633762412570095,0.0,0.0926295302901714
+Personalize product discovery depth and recommendations,5.993333333333333,0.5295497399685165,0.0,0.06537018095851636
+Streamline account and administrative navigation,7.013333333333334,0.5356931654421129,0.0,0.036111524874076026
+Trigger product-page assistance for long comparison sessions,7.846666666666667,0.3697522821283469,0.0,0.006497232135421386

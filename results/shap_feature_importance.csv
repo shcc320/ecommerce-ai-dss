@@ -1,0 +1,29 @@
+Feature,Transformed feature,Raw feature,Mean absolute SHAP,Normalized importance
+PageValues,num__PageValues,PageValues,1.5974786,1.0
+Month Nov,cat__Month_Nov,Month,0.3966364,0.24828902
+Month May,cat__Month_May,Month,0.31801328,0.199072
+ExitRates,num__ExitRates,ExitRates,0.2647902,0.1657551
+Month Mar,cat__Month_Mar,Month,0.10873725,0.06806805
+Administrative Duration,num__Administrative_Duration,Administrative_Duration,0.09834772,0.061564345
+ProductRelated Duration,num__ProductRelated_Duration,ProductRelated_Duration,0.08786299,0.055001043
+BounceRates,num__BounceRates,BounceRates,0.0862203,0.053972743
+Visitor type New Visitor,cat__VisitorType_New_Visitor,VisitorType,0.07549077,0.0472562
+ProductRelated,num__ProductRelated,ProductRelated,0.07292517,0.045650173
+Administrative,num__Administrative,Administrative,0.06048851,0.03786499
+Traffic type,num__TrafficType,TrafficType,0.05114303,0.032014847
+Region,num__Region,Region,0.029427981,0.018421518
+OperatingSystems,num__OperatingSystems,OperatingSystems,0.028880809,0.018078996
+Visitor type Returning Visitor,cat__VisitorType_Returning_Visitor,VisitorType,0.025733268,0.016108677
+Browser,num__Browser,Browser,0.024177602,0.015134851
+Month Dec,cat__Month_Dec,Month,0.022882927,0.014324402
+Month Aug,cat__Month_Aug,Month,0.013074953,0.008184744
+Informational Duration,num__Informational_Duration,Informational_Duration,0.010669882,0.006679202
+Informational,num__Informational,Informational,0.00871073,0.005452799
+Month Sep,cat__Month_Sep,Month,0.007681544,0.0048085423
+Month Jul,cat__Month_Jul,Month,0.0076562967,0.0047927382
+Weekend,num__Weekend,Weekend,0.0036268407,0.0022703533
+SpecialDay,num__SpecialDay,SpecialDay,0.00276846,0.0017330184
+Month Feb,cat__Month_Feb,Month,0.0022499217,0.0014084205
+Month June,cat__Month_June,Month,0.0,0.0
+Month Oct,cat__Month_Oct,Month,0.0,0.0
+Visitor type Other,cat__VisitorType_Other,VisitorType,0.0,0.0

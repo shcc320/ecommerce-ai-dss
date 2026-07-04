@@ -1,0 +1,25 @@
+{
+  "dataset_url": "https://archive.ics.uci.edu/static/public/468/online+shoppers+purchasing+intention+dataset.zip",
+  "seeds": [
+    7,
+    17,
+    27,
+    37,
+    47,
+    57,
+    67,
+    77,
+    87,
+    97
+  ],
+  "primary_seed": 47,
+  "test_size": 0.3,
+  "criteria_weights": {
+    "Expected conversion impact": 0.3,
+    "Evidence strength": 0.2,
+    "Implementation feasibility": 0.15,
+    "Cost efficiency": 0.15,
+    "User-experience safety": 0.1,
+    "Automation readiness": 0.1
+  }
+}

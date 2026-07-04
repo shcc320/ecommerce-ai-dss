@@ -1,0 +1,9 @@
+Raw feature,Strategy,Knowledge rule,Expected conversion impact,Evidence strength,Implementation feasibility,Cost efficiency,User-experience safety,Automation readiness
+Month,Schedule seasonal merchandising and promotion windows,Month effects reveal recurrent seasonality in purchase intention.,1.0,1.0,0.88,0.81,0.89,0.78
+ExitRates,Reduce exit friction in product and checkout journeys,High exit rates reveal journey breakpoints that suppress conversion.,0.8450271734042913,0.8569481600654998,0.82,0.69,0.88,0.76
+ProductRelated_Duration,Trigger product-page assistance for long comparison sessions,Long product-page duration suggests comparison effort and need for decision support.,0.7689177552412002,0.7866933125303387,0.74,0.66,0.8,0.83
+BounceRates,Improve first-screen relevance and loading quality,High bounce rates indicate weak landing-page match or slow first interaction.,0.6830776248591526,0.7074562691007563,0.8,0.72,0.9,0.7
+ProductRelated,Personalize product discovery depth and recommendations,Product-page count captures browsing depth and product discovery intensity.,0.5660123488358813,0.5993960143100442,0.78,0.68,0.84,0.85
+VisitorType,Personalize journeys by visitor recency type,"Visitor type separates returning, new, and other sessions with different intent patterns.",0.5538027833075851,0.5881256461300786,0.84,0.77,0.86,0.89
+Administrative_Duration,Streamline account and administrative navigation,"Administrative dwell time reflects account, policy, or support friction.",0.5351634032157638,0.570920064506859,0.76,0.7,0.88,0.67
+TrafficType,Reweight acquisition channels by conversion quality,Traffic source patterns indicate channel quality and targeting mismatch.,0.4499624340165647,0.4922730160152905,0.81,0.75,0.82,0.84

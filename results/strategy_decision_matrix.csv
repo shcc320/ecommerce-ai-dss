@@ -1,0 +1,9 @@
+Raw feature,Strategy,Knowledge rule,Expected conversion impact,Evidence strength,Implementation feasibility,Cost efficiency,User-experience safety,Automation readiness
+PageValues,Prioritize high-value landing-page optimization,High page value indicates commercial intent; reinforce paths that already create value.,1.0,1.0,0.86,0.73,0.92,0.86
+Month,Schedule seasonal merchandising and promotion windows,Month effects reveal recurrent seasonality in purchase intention.,0.7068161547183991,0.7293687582015991,0.88,0.81,0.89,0.78
+ExitRates,Reduce exit friction in product and checkout journeys,High exit rates reveal journey breakpoints that suppress conversion.,0.45774081051349635,0.4994530558586121,0.82,0.69,0.88,0.76
+VisitorType,Personalize journeys by visitor recency type,"Visitor type separates returning, new, and other sessions with different intent patterns.",0.39118717089295385,0.4380189269781113,0.84,0.77,0.86,0.89
+Administrative_Duration,Streamline account and administrative navigation,"Administrative dwell time reflects account, policy, or support friction.",0.3900168241932988,0.43693860694766046,0.76,0.7,0.88,0.67
+ProductRelated_Duration,Trigger product-page assistance for long comparison sessions,Long product-page duration suggests comparison effort and need for decision support.,0.3857506778091192,0.43300062566995623,0.74,0.66,0.8,0.83
+BounceRates,Improve first-screen relevance and loading quality,High bounce rates indicate weak landing-page match or slow first interaction.,0.38508228324353694,0.4323836460709572,0.8,0.72,0.9,0.7
+ProductRelated,Personalize product discovery depth and recommendations,Product-page count captures browsing depth and product discovery intensity.,0.3796726124361157,0.4273901037871838,0.78,0.68,0.84,0.85

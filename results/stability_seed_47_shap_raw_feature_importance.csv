@@ -1,0 +1,18 @@
+Raw feature,Mean absolute SHAP,Normalized importance
+PageValues,1.6531885,1.0
+Month,0.7558092,0.4571827
+ExitRates,0.20106894,0.12162493
+VisitorType,0.10132697,0.061291847
+BounceRates,0.09943828,0.06014939
+Administrative_Duration,0.08377355,0.050673928
+ProductRelated,0.06965175,0.042131767
+ProductRelated_Duration,0.06752162,0.040843267
+Administrative,0.05164249,0.031238113
+TrafficType,0.02659487,0.016087016
+OperatingSystems,0.018082147,0.010937741
+Browser,0.017000027,0.010283176
+Region,0.011034971,0.0066749626
+Informational,0.003401194,0.002057354
+SpecialDay,0.0011647723,0.0007045611
+Informational_Duration,0.0,0.0
+Weekend,0.0,0.0
