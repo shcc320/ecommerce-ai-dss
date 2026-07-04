@@ -1,0 +1,12 @@
+{
+  "raw_rows": 1067371,
+  "valid_purchase_rows": 805549,
+  "valid_customers": 5878,
+  "date_min": "2009-12-01",
+  "date_max": "2011-12-09",
+  "panel_instances": 86661,
+  "panel_customers": 5654,
+  "panel_months": 23,
+  "panel_positive_rate": 0.21919894762349845,
+  "next_days": 30
+}

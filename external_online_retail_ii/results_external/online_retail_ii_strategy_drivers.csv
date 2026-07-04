@@ -1,0 +1,9 @@
+Rank,Strategy,DecisionDomain,Interpretation,EvidenceScore,SupportingFeatures,Feasibility,LowCost,CustomerExperienceSafety,Actionability,WeightedDSSScore
+1,Loyalty-frequency segmentation,Loyalty and churn management,Purchase frequency indicates repeat engagement and can guide loyalty tiers or churn-prevention triggers.,1.0,active_purchase_days; invoices_90d; raw_invoices_total,0.86,0.8,0.88,0.86,0.91
+2,Seasonal campaign planning,Seasonal operations,Temporal patterns support seasonal promotion timing and campaign-calendar planning.,0.9704767602433957,month_sin; obs_year; obs_month; month_cos,0.84,0.82,0.84,0.88,0.8931907040973582
+3,Reactivation targeting,Customer retention / lifecycle marketing,Customers with longer recency intervals require differentiated reactivation or reminder policies.,0.3298405152470069,recency_days,0.88,0.78,0.82,0.9,0.6379362060988027
+4,Customer-value segmentation,Customer value management,"High monetary value and order value support VIP retention, premium offers, or margin-aware prioritization.",0.288048094290336,total_revenue; revenue_90d; avg_order_value,0.82,0.76,0.86,0.84,0.6062192377161344
+5,Lifecycle-stage segmentation,Customer lifecycle management,"Customer tenure helps distinguish new, growing, and mature customer relationships.",0.2588051806156617,customer_tenure_days,0.84,0.78,0.84,0.86,0.6005220722462646
+6,Bundle and volume-incentive design,Promotion design,Quantity and item-volume behavior can guide bundle offers and quantity-sensitive incentives.,0.08615834401861465,total_items,0.76,0.68,0.8,0.78,0.4864633376074459
+7,Price-band segmentation,Pricing support,Price exposure supports price-band targeting and margin-aware promotion design.,0.05529249007897998,avg_unit_price,0.78,0.7,0.78,0.78,0.478116996031592
+8,General customer analytics,General analytics,The feature provides additional evidence for customer-level decision support.,0.05442393702929227,total_lines,0.7,0.7,0.7,0.7,0.44176957481171686
